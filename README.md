@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rakkesh
-- 👀 I’m interested in Web Development
+- 👀 I’m a web Developer
 - 🌱 I’m currently learning Fullstack Development
 - 💞️ I’m love Learning
 - 📫 Follow me on instagram @rakkesh_rocky
