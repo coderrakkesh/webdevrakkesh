@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rakkesh
 - 👀 I’m a web Developer
 - 🌱 I’m currently learning Fullstack Development
-- 💞️ I’m love Learning
+- 💞️ I love Learning
 - 📫 Follow me on instagram @rakkesh_rocky
 
 <!---
